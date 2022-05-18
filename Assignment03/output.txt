@@ -1,4 +1,0 @@
-Secondary structure	Abundance
-right-handed alpha helix	0.14512417969375233
-right-handed 3_10 helices	0.017426505895534333
-beta-sheets	0.08193725657578829
